@@ -1,0 +1,39 @@
+iframe {
+  width: auto;
+  height:auto;
+  margin:auto;
+  margin-top:5px;
+  margin-bottom: 5px;
+}
+
+body { 
+  background:#F3BC2E;
+}
+
+#panel{
+	background: #9C2706;
+	width:auto;
+	margin:10px 6% 0 6%;
+	border-radius: 5px;
+}
+
+#banner{
+	height:auto;
+	font-family: "Brush Script MT", cursive;
+	font-size: 4vmax;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+	text-align: center;
+	background: #5F5426 ;
+	color:white;
+	margin-bottom: 0;
+}
+
+.spacer{
+	color:white;
+	text-align: center;
+}
+
+
